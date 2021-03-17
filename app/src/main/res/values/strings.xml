@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CountriesList_Kotlin</string>
+    <string name="error_message">An error has occured while loading the data</string>
+</resources>
